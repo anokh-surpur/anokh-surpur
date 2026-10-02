@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/anokh-surpur-81340624b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anokh616@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=78ffb0" /></a>
   <!-- TODO: replace with your portfolio URL -->
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-78ffb0?style=for-the-badge&logoColor=black" /></a>
+  <a href="https://anokh-surpur.github.io/"><img src="https://img.shields.io/badge/Portfolio-78ffb0?style=for-the-badge&logoColor=black" /></a>
 </p>
 
 I'm an AI Engineering graduate from KLE Technological University, Hubballi. I build agentic systems, generative models and distributed ML, and I'm co-building **Karyak**, a marketplace that connects people with nearby skilled workers.
